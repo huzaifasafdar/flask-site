@@ -2,7 +2,7 @@
     "builds":[
         {
             "src":"main.py",
-            "user":"@vercal.python"
+            "user":"@vercel.python"
         }
     ],
     "routes":[
